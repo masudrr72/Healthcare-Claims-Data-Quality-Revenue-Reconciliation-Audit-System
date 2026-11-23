@@ -1,0 +1,4 @@
+anomaly_type,total_injected,total_caught,recall_percentage
+DUPLICATE_CHARGE,25,25,100.0
+MALFORMED_CPT_CODE,30,30,100.0
+POST_MORTEM_BILLING,15,15,100.0

@@ -1,0 +1,23 @@
+# Environment variables & database credentials
+.env
+
+# Virtual environment
+commure/
+venv/
+.venv/
+
+# Large binaries & raw generated data
+tools/*.jar
+output/
+data/raw/*.csv
+
+# Python cache & temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
