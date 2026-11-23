@@ -8,10 +8,10 @@ An end-to-end Revenue Cycle Management (RCM) data engineering and billing invest
 ## 🖥️ Investigation Dashboard Preview
 
 ### 1. Audit Summary & Ground Truth Recall Metrics
-![Dashboard Overview](docs/dashboard_overview.png)
+![Dashboard Overview](docs/dashboard_overview1.png)
 
 ### 2. Interactive Billing Investigation Issue Queue
-![Issue Queue](docs/issue_queue.png)
+![Issue Queue](docs/dashboard_overview2.png)
 
 ---
 
