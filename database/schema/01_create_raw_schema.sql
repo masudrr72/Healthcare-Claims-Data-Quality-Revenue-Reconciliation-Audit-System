@@ -1,12 +1,8 @@
-
-
-
--- ১. প্রজেক্ট আর্কিটেকচার অনুযায়ী ৩টি আলাদা স্কিমা তৈরি
 CREATE SCHEMA IF NOT EXISTS raw;
 CREATE SCHEMA IF NOT EXISTS staging;
 CREATE SCHEMA IF NOT EXISTS investigation;
 
--- ২. raw স্কিমাতে প্রধান ৭টি টেবিল তৈরি (CSV কলামের সাথে মিল রেখে)
+
 CREATE TABLE IF NOT EXISTS raw.patients (
     "Id" TEXT PRIMARY KEY,
     "BIRTHDATE" TEXT,

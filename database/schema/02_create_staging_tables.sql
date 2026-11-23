@@ -1,4 +1,4 @@
--- ১. Staging Patients টেবিল
+
 CREATE TABLE IF NOT EXISTS staging.patients AS
 SELECT 
     "Id" AS patient_id,

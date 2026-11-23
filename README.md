@@ -4,6 +4,17 @@ An end-to-end Revenue Cycle Management (RCM) data engineering and billing invest
 
 ---
 
+
+## 🖥️ Investigation Dashboard Preview
+
+### 1. Audit Summary & Ground Truth Recall Metrics
+![Dashboard Overview](docs/dashboard_overview.png)
+
+### 2. Interactive Billing Investigation Issue Queue
+![Issue Queue](docs/issue_queue.png)
+
+---
+
 ## 🎯 Project Overview
 U.S. healthcare billing workflows generate massive volumes of claims and line-item ledger transactions where coding errors, duplicate charges, overpayments, and temporal discrepancies often occur. This project simulates a production billing audit pipeline:
 1. **Synthetic Data Generation:** Generated realistic, relational U.S. healthcare records (patients, encounters, providers, payers, claims, and 250k+ financial transactions) using **Synthea**.
